@@ -10,4 +10,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 -Axios
 -React Hooks
 
-![Html output image](https://github.com/ismailboyaci/text-generator/blob/master/html.png?raw=true)
+![Html output image](https://github.com/ismailboyaci/text-generator/blob/main/imgaes/html.png?raw=true)
+![Html output image](https://github.com/ismailboyaci/text-generator/blob/main/imgaes/text.png?raw=true)
