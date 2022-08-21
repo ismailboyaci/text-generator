@@ -1,0 +1,25 @@
+@import '~bootstrap/dist/css/bootstrap.css';
+nav{
+    background-color: #2C3333;
+}
+.headerText{
+    color: #E7F6F2;
+    font-size: 24px;
+    font-weight: 700;
+    font-family: cursive;
+    margin-left: 40px;
+}
+.iconG{
+    color: #E7F6F2;
+    font-size: 24px;
+    margin-right: 40px;
+    display: flex;
+}
+.iconG a{
+    color: white;
+    margin: 0 20px;
+    padding-left: 28px;
+}
+.mr-20{
+    margin-right: 20px;
+}

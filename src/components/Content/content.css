@@ -1,0 +1,10 @@
+@import '~bootstrap/dist/css/bootstrap.css';
+body{
+    background-color: #A5C9CA;
+}
+label{
+    font-size: 18px;
+    font-weight: 700;
+    font-family: cursive;
+    color: #2C3333;
+}
